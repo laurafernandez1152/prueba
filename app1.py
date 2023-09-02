@@ -1,4 +1,5 @@
 a = 5
 b = 8 
+resultado = a+b
 
-Resultado = a+b
+print (resultado)
